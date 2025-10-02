@@ -4,11 +4,6 @@ A simple game where you need to click the button as fast as you can in an amount
 ## Required Package(s)
 Python Version Used: 3.11
 
-No special packages.
-```bash
-pip install No special packages.
-```
-
 ## Installation Guide
 Pull the repo and run the code. There you will have no problem in knowing what to do.
 
