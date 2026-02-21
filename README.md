@@ -1,4 +1,4 @@
-# Click Game
+# Speed Click Game
 A simple game where you need to click the button as fast as you can in an amount of time. The timer goes infinetly but if you want to be on the leaderboard, you need to score much more in less time.
 
 ## Required Package(s)
